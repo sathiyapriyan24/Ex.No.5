@@ -34,14 +34,14 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-<img width="1087" height="711" alt="Screenshot 2025-10-21 215335" src="https://github.com/user-attachments/assets/f1bd9c80-9f04-4173-b292-6c761956818a" />
+<img width="993" height="693" alt="Screenshot 2025-10-21 215154" src="https://github.com/user-attachments/assets/68c00761-a296-4cd3-aeb0-903ccbb37750" />
 
-<img width="960" height="653" alt="Screenshot 2025-10-21 215237" src="https://github.com/user-attachments/assets/36cad9c0-2573-496a-a175-0208ff639bf3" />
+<img width="990" height="691" alt="Screenshot 2025-10-21 215209" src="https://github.com/user-attachments/assets/c9da6e04-8bb7-44ea-9d31-0314c50c2fb2" />
 
-<img width="791" height="545" alt="Screenshot 2025-10-21 215219" src="https://github.com/user-attachments/assets/844312e3-32b7-4142-bad8-ece876a4ad70" />
+<img width="791" height="545" alt="Screenshot 2025-10-21 215219" src="https://github.com/user-attachments/assets/80a752d7-45df-4c94-95fb-a0f160200764" />
 
-<img width="990" height="691" alt="Screenshot 2025-10-21 215209" src="https://github.com/user-attachments/assets/80a008bd-dcf2-452b-a3a2-7543966a5288" />
+<img width="960" height="653" alt="Screenshot 2025-10-21 215237" src="https://github.com/user-attachments/assets/7ab43a88-d1eb-4a99-a9f7-62714604a2e3" />
 
-<img width="993" height="693" alt="Screenshot 2025-10-21 215154" src="https://github.com/user-attachments/assets/e8edc5b8-60b8-4b1b-b394-a1ccfd89d767" />
+<img width="1087" height="711" alt="Screenshot 2025-10-21 215335" src="https://github.com/user-attachments/assets/1c87a8fa-1bf7-46a2-852f-c83e67e68612" />
 
 # RESULT: The prompt for the above said problem executed successfully
