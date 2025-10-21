@@ -34,24 +34,29 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-<img width="1067" height="665" alt="Screenshot 2025-10-21 224910" src="https://github.com/user-attachments/assets/7494b2e5-bf61-424a-999a-51c4d1b5c174" />
+
+<img width="947" height="636" alt="Screenshot 2025-10-21 225614" src="https://github.com/user-attachments/assets/78f36a99-92b9-4340-8cfc-6cec9636eb99" />
 
 
-<img width="925" height="624" alt="Screenshot 2025-10-21 224920" src="https://github.com/user-attachments/assets/4cd10b36-2f0f-495b-ab9b-4cf6ba0f3ca2" />
+<img width="1056" height="741" alt="Screenshot 2025-10-21 225622" src="https://github.com/user-attachments/assets/2f469599-50dc-425a-ae6f-09e3d7700ff1" />
 
 
-<img width="1091" height="659" alt="Screenshot 2025-10-21 224936" src="https://github.com/user-attachments/assets/7623bbd0-6e1e-4132-bfe8-97ab76990a9a" />
+<img width="1010" height="615" alt="Screenshot 2025-10-21 225638" src="https://github.com/user-attachments/assets/d847b613-c929-45e9-b288-0bcc1f99dea8" />
 
 
-<img width="984" height="647" alt="Screenshot 2025-10-21 225013" src="https://github.com/user-attachments/assets/15ba0f93-3bef-479d-a4cc-0779d8f8cff0" />
+
+<img width="1025" height="508" alt="Screenshot 2025-10-21 225653" src="https://github.com/user-attachments/assets/48197e99-6bcd-46a1-bbbb-bfffecd81464" />
 
 
-<img width="1127" height="720" alt="Screenshot 2025-10-21 225025" src="https://github.com/user-attachments/assets/d45572af-cc7f-4c36-8cb5-e7bad5df01cc" />
-
-<img width="1088" height="682" alt="Screenshot 2025-10-21 225033" src="https://github.com/user-attachments/assets/6d900390-ea25-441e-9072-68499889c0c7" />
+<img width="657" height="141" alt="Screenshot 2025-10-21 225702" src="https://github.com/user-attachments/assets/48da7472-a317-488f-99e2-18012d7857ff" />
 
 
-<img width="1051" height="518" alt="Screenshot 2025-10-21 225044" src="https://github.com/user-attachments/assets/3f1bb090-83c3-4e63-9f6d-bd2bc5fd26c6" />
+<img width="1052" height="583" alt="Screenshot 2025-10-21 225712" src="https://github.com/user-attachments/assets/66fe7478-8c11-49a9-9d08-2cde230354a2" />
+
+
+<img width="1023" height="274" alt="Screenshot 2025-10-21 225719" src="https://github.com/user-attachments/assets/89d365ef-b662-413a-9ee7-c2362e1d4136" />
+
+<img width="977" height="549" alt="Screenshot 2025-10-21 225726" src="https://github.com/user-attachments/assets/9e4c036f-532a-498e-adfc-e9c0df80b996" />
 
 
 # RESULT: The prompt for the above said problem executed successfully
