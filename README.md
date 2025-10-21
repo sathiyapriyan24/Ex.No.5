@@ -34,14 +34,24 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-<img width="993" height="693" alt="Screenshot 2025-10-21 215154" src="https://github.com/user-attachments/assets/68c00761-a296-4cd3-aeb0-903ccbb37750" />
+<img width="1067" height="665" alt="Screenshot 2025-10-21 224910" src="https://github.com/user-attachments/assets/7494b2e5-bf61-424a-999a-51c4d1b5c174" />
 
-<img width="990" height="691" alt="Screenshot 2025-10-21 215209" src="https://github.com/user-attachments/assets/c9da6e04-8bb7-44ea-9d31-0314c50c2fb2" />
 
-<img width="791" height="545" alt="Screenshot 2025-10-21 215219" src="https://github.com/user-attachments/assets/80a752d7-45df-4c94-95fb-a0f160200764" />
+<img width="925" height="624" alt="Screenshot 2025-10-21 224920" src="https://github.com/user-attachments/assets/4cd10b36-2f0f-495b-ab9b-4cf6ba0f3ca2" />
 
-<img width="960" height="653" alt="Screenshot 2025-10-21 215237" src="https://github.com/user-attachments/assets/7ab43a88-d1eb-4a99-a9f7-62714604a2e3" />
 
-<img width="1087" height="711" alt="Screenshot 2025-10-21 215335" src="https://github.com/user-attachments/assets/1c87a8fa-1bf7-46a2-852f-c83e67e68612" />
+<img width="1091" height="659" alt="Screenshot 2025-10-21 224936" src="https://github.com/user-attachments/assets/7623bbd0-6e1e-4132-bfe8-97ab76990a9a" />
+
+
+<img width="984" height="647" alt="Screenshot 2025-10-21 225013" src="https://github.com/user-attachments/assets/15ba0f93-3bef-479d-a4cc-0779d8f8cff0" />
+
+
+<img width="1127" height="720" alt="Screenshot 2025-10-21 225025" src="https://github.com/user-attachments/assets/d45572af-cc7f-4c36-8cb5-e7bad5df01cc" />
+
+<img width="1088" height="682" alt="Screenshot 2025-10-21 225033" src="https://github.com/user-attachments/assets/6d900390-ea25-441e-9072-68499889c0c7" />
+
+
+<img width="1051" height="518" alt="Screenshot 2025-10-21 225044" src="https://github.com/user-attachments/assets/3f1bb090-83c3-4e63-9f6d-bd2bc5fd26c6" />
+
 
 # RESULT: The prompt for the above said problem executed successfully
