@@ -34,5 +34,14 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+<img width="1087" height="711" alt="Screenshot 2025-10-21 215335" src="https://github.com/user-attachments/assets/f1bd9c80-9f04-4173-b292-6c761956818a" />
+
+<img width="960" height="653" alt="Screenshot 2025-10-21 215237" src="https://github.com/user-attachments/assets/36cad9c0-2573-496a-a175-0208ff639bf3" />
+
+<img width="791" height="545" alt="Screenshot 2025-10-21 215219" src="https://github.com/user-attachments/assets/844312e3-32b7-4142-bad8-ece876a4ad70" />
+
+<img width="990" height="691" alt="Screenshot 2025-10-21 215209" src="https://github.com/user-attachments/assets/80a008bd-dcf2-452b-a3a2-7543966a5288" />
+
+<img width="993" height="693" alt="Screenshot 2025-10-21 215154" src="https://github.com/user-attachments/assets/e8edc5b8-60b8-4b1b-b394-a1ccfd89d767" />
 
 # RESULT: The prompt for the above said problem executed successfully
